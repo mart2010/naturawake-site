@@ -55,6 +55,8 @@ You can dismiss an alarm at any time. There is no snooze.
 
 ## The Wake profile
 
+![The Wake profile: light moves from deep blue and violet through rose and soft amber to gold while sound rises, from dawn begins to wake-up time](assets/dawn-timeline.png)
+
 One profile, shared by all your alarms, sets how the dawn behaves:
 
 - **Dawn begins** 5 to 60 minutes before wake-up. A natural dawn lasts about 20

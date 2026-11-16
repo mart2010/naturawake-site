@@ -4,6 +4,8 @@ title: NaturaWake
 
 # NaturaWake
 
+![A dawn's colours: deep blue and violet fading through rose and soft amber to gold](assets/dawn-banner.png)
+
 **Wake up to a dawn, not an alarm.**
 
 NaturaWake is an alarm clock for Android that wakes you the way a morning does.
