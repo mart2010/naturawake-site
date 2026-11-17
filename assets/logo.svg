@@ -1,19 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="NaturaWake">
-<rect width="100" height="100" rx="22" fill="#FBF8F2"/>
-<g transform="translate(50 50) scale(0.92) translate(-50 -50)" fill="none" stroke="#16314F" stroke-linecap="round">
-<circle cx="50" cy="57" r="29" stroke-width="3.6"/>
-<circle cx="50" cy="24" r="6.8" fill="#16314F" stroke="none"/>
-<path d="M50.00 16.00L50.00 12.00" stroke-width="2.6"/>
-<path d="M55.95 18.65L58.92 15.97" stroke-width="2.6"/>
-<path d="M44.05 18.65L41.08 15.97" stroke-width="2.6"/>
-<path d="M76.00 57.00L72.00 57.00" stroke-width="2.6"/>
-<path d="M68.38 75.38L65.56 72.56" stroke-width="2.6"/>
-<path d="M50.00 83.00L50.00 79.00" stroke-width="2.6"/>
-<path d="M31.62 75.38L34.44 72.56" stroke-width="2.6"/>
-<path d="M24.00 57.00L28.00 57.00" stroke-width="2.6"/>
-<path d="M31.62 38.62L34.44 41.44" stroke-width="2.6"/>
-<path d="M68.38 38.62L65.56 41.44" stroke-width="2.6"/>
-<path d="M50.00 57.00L50.00 42.00" stroke-width="3.2"/>
-<path d="M50.00 57.00L65.59 48.00" stroke-width="3.2"/>
-</g>
+<defs><linearGradient id="g" x1="0.3415" y1="-0.0915" x2="0.6585" y2="1.0915">
+<stop offset="0" stop-color="#16314F"/><stop offset="0.32" stop-color="#2B4A66"/><stop offset="0.68" stop-color="#D97A4A"/><stop offset="1" stop-color="#F2B35B"/>
+</linearGradient></defs>
+<rect width="100" height="100" rx="22" fill="url(#g)"/>
+<svg x="14" y="9" width="72" height="72" viewBox="-20 -20 240 240"><g fill="none" stroke="#FBF8F2" stroke-linecap="round" stroke-width="5">
+<circle cx="100" cy="100" r="78" stroke-width="6"/>
+<line x1="178.0" y1="100.0" x2="166.0" y2="100.0"/>
+<line x1="155.2" y1="155.2" x2="146.7" y2="146.7"/>
+<line x1="100.0" y1="178.0" x2="100.0" y2="166.0"/>
+<line x1="44.8" y1="155.2" x2="53.3" y2="146.7"/>
+<line x1="22.0" y1="100.0" x2="34.0" y2="100.0"/>
+<line x1="44.8" y1="44.8" x2="53.3" y2="53.3"/>
+<line x1="155.2" y1="44.8" x2="146.7" y2="53.3"/>
+<line x1="100" y1="100" x2="100" y2="66" stroke-width="8"/>
+<line x1="100" y1="100" x2="140" y2="75"/>
+<circle cx="100" cy="100" r="6" fill="#FBF8F2" stroke="none"/>
+<circle cx="100" cy="14" r="21" fill="#F2B35B" stroke="none"/>
+<g stroke="#F2B35B"><line x1="100" y1="-7" x2="100" y2="-17"/><line x1="81.8" y1="3.5" x2="73.2" y2="-1.5"/><line x1="118.2" y1="3.5" x2="126.8" y2="-1.5"/></g>
+</g></svg>
 </svg>
