@@ -1,19 +1,14 @@
 ---
 title: NaturaWake
+hero: true
+lead: Wake up to a dawn, not an alarm.
+sub: >-
+  NaturaWake is an alarm clock for Android that wakes you the way a morning
+  does. Before your wake-up time, your lamps rise slowly from deep blue to warm
+  gold, while recordings of real nature fade in from silence. Then the alarm
+  rings, if you need it to.
+status: In development. Not on Google Play yet.
 ---
-
-# NaturaWake
-
-![A dawn's colours: deep blue and violet fading through rose and soft amber to gold](assets/dawn-banner.png)
-
-**Wake up to a dawn, not an alarm.**
-
-NaturaWake is an alarm clock for Android that wakes you the way a morning does.
-Before your wake-up time, your lamps rise slowly from deep blue to warm gold,
-while recordings of real nature fade in from silence. Then the alarm rings, if
-you need it to.
-
-*Status: in development. Not on Google Play yet.*
 
 ## A dawn that feels natural
 

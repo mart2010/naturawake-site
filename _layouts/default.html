@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#16314F">
+  <link rel="icon" type="image/svg+xml" href="{{ '/assets/favicon.svg' | relative_url }}">
+  <link rel="preload" href="{{ '/assets/fonts/Inter-Regular.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
+  <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  {% seo %}
+</head>
+<body{% if page.hero %} class="home"{% endif %}>
+  <header class="top">
+    <div class="top-inner">
+      <a class="brand" href="{{ '/' | relative_url }}">
+        <img src="{{ '/assets/logo.svg' | relative_url }}" alt="" width="40" height="40">
+        <span>naturawake</span>
+      </a>
+      <nav>
+        <a href="{{ '/' | relative_url }}"{% if page.hero %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ '/guide' | relative_url }}"{% if page.url contains 'guide' %} aria-current="page"{% endif %}>User guide</a>
+      </nav>
+    </div>
+    {% if page.hero %}
+    <div class="hero">
+      <p class="lead">{{ page.lead }}</p>
+      <p class="sub">{{ page.sub }}</p>
+      {% if page.status %}<p class="status">{{ page.status }}</p>{% endif %}
+    </div>
+    {% endif %}
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <p>NaturaWake · wake up to a dawn, not an alarm.</p>
+    <p class="small">Set in <a href="{{ '/assets/fonts/Inter-LICENSE.txt' | relative_url }}">Inter</a>.</p>
+  </footer>
+</body>
+</html>
