@@ -109,7 +109,9 @@ band its own name, or turn 5 GHz off for the moment you search.
 
 - **Overnight, keep these on** (the sound does not need them): for a WiZ lamp,
   Wi-Fi on the same network as the lamp; for a Hue lamp, Bluetooth, with the lamp
-  near the phone. Airplane mode switches both off.
+  near the phone. Airplane mode switches both off. With a Hue lamp it is fine
+  to use airplane mode, as long as you switch Bluetooth back on afterwards:
+  neither the lamp nor the sound needs a network.
 - **Close the Hue app before bed** if you use a Hue lamp. If it stays open in the
   background it can keep hold of the lamp all night, and NaturaWake cannot
   connect to it. NaturaWake reminds you when an alarm is set with a Hue lamp.
