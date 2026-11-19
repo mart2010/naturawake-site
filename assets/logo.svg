@@ -3,7 +3,7 @@
 <stop offset="0" stop-color="#16314F"/><stop offset="0.32" stop-color="#2B4A66"/><stop offset="0.68" stop-color="#D97A4A"/><stop offset="1" stop-color="#F2B35B"/>
 </linearGradient></defs>
 <rect width="100" height="100" rx="22" fill="url(#g)"/>
-<svg x="14" y="9" width="72" height="72" viewBox="-20 -20 240 240"><g fill="none" stroke="#FBF8F2" stroke-linecap="round" stroke-width="5">
+<svg x="14" y="14" width="72" height="72" viewBox="-20 -20 240 240"><g fill="none" stroke="#FBF8F2" stroke-linecap="round" stroke-width="5">
 <circle cx="100" cy="100" r="78" stroke-width="6"/>
 <line x1="178.0" y1="100.0" x2="166.0" y2="100.0"/>
 <line x1="155.2" y1="155.2" x2="146.7" y2="146.7"/>
@@ -11,11 +11,18 @@
 <line x1="44.8" y1="155.2" x2="53.3" y2="146.7"/>
 <line x1="22.0" y1="100.0" x2="34.0" y2="100.0"/>
 <line x1="44.8" y1="44.8" x2="53.3" y2="53.3"/>
+<line x1="100.0" y1="22.0" x2="100.0" y2="34.0"/>
 <line x1="155.2" y1="44.8" x2="146.7" y2="53.3"/>
+<g stroke="#F2B35B"><line x1="178.0" y1="100.0" x2="208.0" y2="100.0" stroke-width="5"/>
+<line x1="155.2" y1="155.2" x2="169.3" y2="169.3" stroke-width="4"/>
+<line x1="100.0" y1="178.0" x2="100.0" y2="208.0" stroke-width="5"/>
+<line x1="44.8" y1="155.2" x2="30.7" y2="169.3" stroke-width="4"/>
+<line x1="22.0" y1="100.0" x2="-8.0" y2="100.0" stroke-width="5"/>
+<line x1="44.8" y1="44.8" x2="30.7" y2="30.7" stroke-width="4"/>
+<line x1="100.0" y1="22.0" x2="100.0" y2="-8.0" stroke-width="5"/>
+<line x1="155.2" y1="44.8" x2="169.3" y2="30.7" stroke-width="4"/></g>
 <line x1="100" y1="100" x2="100" y2="66" stroke-width="8"/>
 <line x1="100" y1="100" x2="140" y2="75"/>
 <circle cx="100" cy="100" r="6" fill="#FBF8F2" stroke="none"/>
-<circle cx="100" cy="14" r="21" fill="#F2B35B" stroke="none"/>
-<g stroke="#F2B35B"><line x1="100" y1="-7" x2="100" y2="-17"/><line x1="81.8" y1="3.5" x2="73.2" y2="-1.5"/><line x1="118.2" y1="3.5" x2="126.8" y2="-1.5"/></g>
 </g></svg>
 </svg>
