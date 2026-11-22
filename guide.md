@@ -43,7 +43,10 @@ skip any of them and come back later.
    so you can see the effect. It does not change your alarms.
 
 NaturaWake is free for **30 days**. The Alarms screen shows how many days are
-left.
+left. After that, the dawn needs a yearly subscription, managed in Google Play.
+Without one the alarm still rings, with a plain sound, and your settings and your
+own sounds are kept. The Alarms and Wake profile screens say so, with a
+**Subscribe** button.
 
 ## Setting an alarm
 

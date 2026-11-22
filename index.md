@@ -20,8 +20,8 @@ you want to be awake; the dawn is timed to end then.
 
 **The sound.** No synthetic beeps. The ambience is made of recordings of the
 real thing: gentle rain, a quiet stream with birds, leaves in the wind, a forest,
-songbirds. It starts almost silent and rises smoothly, so you surface from sleep
-instead of being jolted out of it.
+songbirds, or a sound file of your own. It starts almost silent and rises
+smoothly, so you surface from sleep instead of being jolted out of it.
 
 **Both together.** Light and sound rise on the same curve, so the room slowly
 brightens and fills with life.
@@ -33,7 +33,8 @@ brightens and fills with life.
 - **The sound does not depend on the lamps or the network.** If a lamp cannot be
   reached, the dawn carries on without it.
 - Several alarms, repeat days, and a dismiss button at any time.
-- No account, no subscription: a free trial, then a one-time purchase.
+- No account of our own: a 30-day free trial, then a yearly subscription. Without
+  one, the alarm still rings, with a plain sound.
 
 ## Why I made it
 
