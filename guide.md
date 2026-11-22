@@ -61,15 +61,37 @@ One profile, shared by all your alarms, sets how the dawn behaves:
 
 - **Dawn begins** 5 to 60 minutes before wake-up. A natural dawn lasts about 20
   to 30 minutes.
-- **Ambience during dawn:** Gentle Rain, Quiet Stream, Leaves in the Wind, Forest
-  Ambience or Songbirds, or off.
+- **Ambience during dawn:** one of the natural sounds (Gentle Rain, Quiet Stream,
+  Leaves in the Wind, Forest Ambience, Songbirds) or a sound of your own, see
+  [Your own sounds](#your-own-sounds).
 - **Sound at wake-up:** the level the sound reaches.
 - **Phone's alarm sound at wake-up:** the phone's own alarm sound, set in
   Android's Settings.
 - **Light at wake-up:** the brightness the lamps reach.
 - **Rings for up to** 1 to 60 minutes, then the alarm stops by itself.
-- **Keep the light on after the alarm:** the lamps stay lit for a time you
-  choose, then fade out.
+- **Light stays on after the alarm:** 0 to 60 minutes, in steps of 5. After you
+  switch the alarm off, the lamps stay lit for that long, then fade out. At 0 they
+  go out with the alarm.
+
+## Your own sounds
+
+Under **Ambience during dawn**, choose **My sounds** to use a recording of your
+own (music, a field recording, a voice) instead of one of the natural sounds.
+
+- **Add a sound** opens Android's file picker. MP3, M4A, OGG, WAV and FLAC files
+  work. NaturaWake plays a few seconds of the file right away: if it cannot be
+  played, you are told and it is not added.
+- The app keeps its own copy, so it still plays if you move or delete the
+  original. You can keep up to 10 sounds, each up to 50 MB. The three-dot menu on a
+  sound renames or removes it.
+- **Length:** a sound longer than the dawn is cut off when the dawn ends (the row
+  says so). A short one repeats until the dawn is over; under 30 seconds, you are
+  warned that it will repeat.
+- Like the natural sounds, it rises from silence to the level you chose.
+- If the chosen file is ever missing or cannot be opened, the alarm plays
+  Songbirds instead. The alarm is never silent.
+- When your free trial ends without a subscription, the alarm rings with a plain
+  sound. Your files stay in the app and are used again once you subscribe.
 
 ## Adding a Philips Hue lamp (Bluetooth)
 
@@ -141,6 +163,10 @@ settings above are on.
 **A WiZ lamp answers but does not change.**
 "Allow local communication" and "Allow all controls" are not both on in the WiZ
 app.
+
+**My own sound was replaced by birdsong.**
+The file could not be opened at the time (it was removed, or it does not play).
+Open the Wake profile: the page says so. Add the sound again, or choose another.
 
 **The alarm rang with a plain sound and no dawn.**
 If the app's dawn cannot start, a fallback rings the phone's alarm sound at the
